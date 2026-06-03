@@ -1,0 +1,8 @@
+# Key Insights
+
+1. Technology category generated the highest profit.
+2. West region contributed the highest sales.
+3. Sales and Profit showed a positive correlation.
+4. Higher discounts often reduced profitability.
+5. Office Supplies had the highest number of transactions.
+6. A small number of products generated a large share of revenue.
